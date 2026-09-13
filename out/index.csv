@@ -1,0 +1,32 @@
+file,dossier,lang,clip_id,text,speech_ms,tail_ms,total_ms,rms_dbfs
+out\court\fr\filler_01_alors_v1.wav,court,fr,filler_01,Alors.,611,200,811,-23.0
+out\court\fr\filler_02_voyons_v1.wav,court,fr,filler_02,Voyons.,571,200,771,-23.0
+out\court\fr\filler_03_voyons_voir_v1.wav,court,fr,filler_03,Voyons voir.,1016,200,1216,-23.0
+out\court\fr\filler_04_donc_v1.wav,court,fr,filler_04,Donc.,600,200,800,-23.0
+out\court\fr\filler_05_attendez_v1.wav,court,fr,filler_05,Attendez.,604,200,804,-23.0
+out\court\fr\filler_06_une_seconde_v1.wav,court,fr,filler_06,Une seconde.,875,200,1075,-23.0
+out\court\fr\filler_07_bon_v1.wav,court,fr,filler_07,Bon.,375,200,575,-23.0
+out\court\fr\filler_08_eh_bien_v1.wav,court,fr,filler_08,Eh bien.,495,200,695,-23.0
+out\court\fr\filler_09_voila_v1.wav,court,fr,filler_09,Voilà.,580,200,780,-23.0
+out\court\fr\filler_10_attendez_voir_v1.wav,court,fr,filler_10,Attendez voir.,972,200,1172,-23.0
+out\court\fr\filler_11_un_petit_instant_v1.wav,court,fr,filler_11,Un petit instant.,978,200,1178,-23.0
+out\court\nl\filler_01_even_kijken_v1.wav,court,nl,filler_01,Even kijken.,823,200,1023,-23.0
+out\court\nl\filler_02_eens_kijken_v1.wav,court,nl,filler_02,Eens kijken.,818,200,1018,-23.0
+out\court\nl\filler_03_dus_v1.wav,court,nl,filler_03,Dus.,530,200,730,-23.0
+out\court\nl\filler_04_momentje_v1.wav,court,nl,filler_04,Momentje.,707,200,907,-23.0
+out\court\nl\filler_05_wacht_even_v1.wav,court,nl,filler_05,Wacht even.,916,200,1116,-23.0
+out\court\nl\filler_06_een_seconde_v1.wav,court,nl,filler_06,Een seconde.,820,200,1020,-23.0
+out\long\fr\S009_verifying_je_verifie_ca_v1.wav,long,fr,S009_verifying,Je vérifie ça.,963,200,1163,-20.0
+out\long\fr\S010_loading_je_regarde_ca_v1.wav,long,fr,S010_loading,Je regarde ça.,1061,200,1261,-20.0
+out\long\fr\S011_searching_je_cherche_ca_v1.wav,long,fr,S011_searching,Je cherche ça.,941,200,1141,-20.0
+out\long\fr\S012_still_working_encore_un_instant_v1.wav,long,fr,S012_still_working,Encore un instant.,1013,200,1213,-20.0
+out\long\fr\S013_record_je_consulte_votre_dossier_v1.wav,long,fr,S013_record,Je consulte votre dossier.,1621,200,1821,-20.0
+out\long\fr\S014_fetch_je_recupere_l_information_v1.wav,long,fr,S014_fetch,Je récupère l'information.,1570,200,1770,-20.0
+out\long\fr\S015_system_je_verifie_dans_le_systeme_v1.wav,long,fr,S015_system,Je vérifie dans le système.,1577,200,1777,-20.0
+out\long\fr\S016_onit_je_suis_dessus_v1.wav,long,fr,S016_onit,Je suis dessus.,917,200,1117,-20.0
+out\long\nl\S009_verifying_ik_kijk_dat_even_na_v1.wav,long,nl,S009_verifying,Ik kijk dat even na.,1302,200,1502,-20.0
+out\long\nl\S010_loading_ik_haal_het_even_op_v1.wav,long,nl,S010_loading,Ik haal het even op.,1220,200,1420,-20.0
+out\long\nl\S011_searching_ik_zoek_het_even_op_v1.wav,long,nl,S011_searching,Ik zoek het even op.,1147,200,1347,-20.0
+out\long\nl\S012_still_working_nog_een_ogenblik_v1.wav,long,nl,S012_still_working,Nog een ogenblik.,1092,200,1292,-20.0
+out\long\nl\S013_record_ik_bekijk_uw_dossier_v1.wav,long,nl,S013_record,Ik bekijk uw dossier.,1344,200,1544,-20.0
+out\long\nl\S014_fetch_ik_haal_de_informatie_op_v1.wav,long,nl,S014_fetch,Ik haal de informatie op.,1650,200,1850,-20.0
