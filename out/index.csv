@@ -1,27 +1,10 @@
 file,dossier,lang,clip_id,text,speech_ms,ambience_ms,tail_ms,total_ms,rms_dbfs
-out\court\fr\filler_01_alors_v2.wav,court,fr,filler_01,Alors.,611,0,200,811,-23.0
-out\court\fr\filler_02_voyons_v2.wav,court,fr,filler_02,Voyons.,571,0,200,771,-23.0
-out\court\fr\filler_03_voyons_voir_v2.wav,court,fr,filler_03,Voyons voir.,1016,0,200,1216,-23.0
-out\court\fr\filler_04_donc_v2.wav,court,fr,filler_04,Donc.,600,0,200,800,-23.0
-out\court\fr\filler_05_attendez_v2.wav,court,fr,filler_05,Attendez.,604,0,200,804,-23.0
-out\court\fr\filler_06_une_seconde_v2.wav,court,fr,filler_06,Une seconde.,875,0,200,1075,-23.0
-out\court\fr\filler_07_bon_v2.wav,court,fr,filler_07,Bon.,375,0,200,575,-23.0
-out\court\fr\filler_08_eh_bien_v2.wav,court,fr,filler_08,Eh bien.,495,0,200,695,-23.0
-out\court\fr\filler_09_voila_v2.wav,court,fr,filler_09,Voilà.,580,0,200,780,-23.0
-out\court\fr\filler_10_attendez_voir_v2.wav,court,fr,filler_10,Attendez voir.,972,0,200,1172,-23.0
-out\court\fr\filler_11_un_petit_instant_v2.wav,court,fr,filler_11,Un petit instant.,978,0,200,1178,-23.0
-out\court\nl\filler_01_even_kijken_v2.wav,court,nl,filler_01,Even kijken.,823,0,200,1023,-23.0
-out\court\nl\filler_02_eens_kijken_v2.wav,court,nl,filler_02,Eens kijken.,818,0,200,1018,-23.0
-out\court\nl\filler_03_dus_v2.wav,court,nl,filler_03,Dus.,530,0,200,730,-23.0
-out\court\nl\filler_04_momentje_v2.wav,court,nl,filler_04,Momentje.,707,0,200,907,-23.0
-out\court\nl\filler_05_wacht_even_v2.wav,court,nl,filler_05,Wacht even.,916,0,200,1116,-23.0
-out\court\nl\filler_06_een_seconde_v2.wav,court,nl,filler_06,Een seconde.,820,0,200,1020,-23.0
-out\long\fr\S009_verifying_je_verifie_ca_v2.wav,long,fr,S009_verifying,Je vérifie ça.,963,12000,200,13413,-20.0
-out\long\fr\S010_loading_je_regarde_ca_v2.wav,long,fr,S010_loading,Je regarde ça.,1061,12000,200,13511,-20.0
-out\long\fr\S011_searching_je_cherche_ca_v2.wav,long,fr,S011_searching,Je cherche ça.,941,12000,200,13391,-20.0
-out\long\fr\S014_fetch_je_recupere_l_information_v2.wav,long,fr,S014_fetch,Je récupère l'information.,1570,12000,200,14020,-20.0
-out\long\fr\S015_system_je_verifie_dans_le_systeme_v2.wav,long,fr,S015_system,Je vérifie dans le système.,1577,12000,200,14027,-20.0
-out\long\nl\S009_verifying_ik_kijk_dat_even_na_v2.wav,long,nl,S009_verifying,Ik kijk dat even na.,1302,12000,200,13752,-20.0
-out\long\nl\S010_loading_ik_haal_het_even_op_v2.wav,long,nl,S010_loading,Ik haal het even op.,1220,12000,200,13670,-20.0
-out\long\nl\S011_searching_ik_zoek_het_even_op_v2.wav,long,nl,S011_searching,Ik zoek het even op.,1147,12000,200,13597,-20.0
-out\long\nl\S014_fetch_ik_haal_de_informatie_op_v2.wav,long,nl,S014_fetch,Ik haal de informatie op.,1650,12000,200,14100,-20.0
+out\long\fr\S009_verifying_je_verifie_ca_v3.wav,long,fr,S009_verifying,"Je vérifie ça, veuillez patienter quelques secondes.",3097,12000,200,15547,-20.0
+out\long\fr\S010_loading_je_regarde_ca_v3.wav,long,fr,S010_loading,"Je regarde ça, veuillez patienter quelques secondes.",3171,12000,200,15621,-20.0
+out\long\fr\S011_searching_je_cherche_ca_v3.wav,long,fr,S011_searching,"Je cherche ça, veuillez patienter quelques secondes.",3056,12000,200,15506,-20.0
+out\long\fr\S014_fetch_je_recupere_l_information_v3.wav,long,fr,S014_fetch,"Je récupère l'information, veuillez patienter quelques secondes.",3664,12000,200,16114,-20.0
+out\long\fr\S015_system_je_verifie_dans_le_systeme_v3.wav,long,fr,S015_system,"Je vérifie dans le système, veuillez patienter quelques secondes.",3620,12000,200,16070,-20.0
+out\long\nl\S009_verifying_ik_kijk_dat_even_na_v3.wav,long,nl,S009_verifying,"Ik kijk dat even na, een ogenblik geduld alstublieft.",3435,12000,200,15885,-20.0
+out\long\nl\S010_loading_ik_haal_het_even_op_v3.wav,long,nl,S010_loading,"Ik haal het even op, een ogenblik geduld alstublieft.",3336,12000,200,15786,-20.0
+out\long\nl\S011_searching_ik_zoek_het_even_op_v3.wav,long,nl,S011_searching,"Ik zoek het even op, een ogenblik geduld alstublieft.",3323,12000,200,15773,-20.0
+out\long\nl\S014_fetch_ik_haal_de_informatie_op_v3.wav,long,nl,S014_fetch,"Ik haal de informatie op, een ogenblik geduld alstublieft.",3727,12000,200,16177,-20.0
